@@ -1,0 +1,13 @@
+{
+  "name": "challenge-codenation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "sha1": "^1.1.1"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
